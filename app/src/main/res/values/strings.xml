@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WifiLocation</string>
+    <string name="title">请选择模式</string>
+</resources>
